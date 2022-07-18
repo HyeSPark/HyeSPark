@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=transperant&color=auto&height=300&section=header&text=Hye%Soo%Park&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=684AE2&height=150&section=header&text=Hye%20Soo%20Park&fontSize=40&desc=HCI%20researcher,%20UI/UX%20designer&descAlignY=50&descAlign=70&fontAlign=35)
+
 
 - 👋 Hi, I’m @HyeSPark
 - 👀 I’m interested in ...
