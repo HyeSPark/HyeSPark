@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=684AE2&height=150&section=header&text=Hye%20Soo%20Park&fontSize=40&desc=HCI%20researcher,%20UI/UX%20designer&descAlignY=50&descAlign=75&fontAlign=35)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=684AE2&height=150&section=header&text=Hye%20Soo%20Park&fontSize=40&desc=HCI%20researcher,%20UI/UX%20designer&descAlignY=50&descAlign=70&fontAlign=30)
 
 <!-- // <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
 
