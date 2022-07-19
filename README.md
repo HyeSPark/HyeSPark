@@ -18,7 +18,7 @@
   <br>
   
   ### 📨 Contact
-  <a href=hyehye@kaist.ac.kr><img src="https://img.shields.io/badge/hyehye@kaist.ac.kr-005FF9?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:hyehye@kaist.ac.kr"><img src="https://img.shields.io/badge/hyehye@kaist.ac.kr-005FF9?style=flat-square&logo=gmail&logoColor=white"/></a>
   
   
 </div>
