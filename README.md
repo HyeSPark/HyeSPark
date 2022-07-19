@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
   <br>
-
   
   ### 📨 Contact
   <a href="mailto:hyehye@kaist.ac.kr"><img src="https://img.shields.io/badge/hyehye@kaist.ac.kr-EEEEEE?style=for-the-badge&logo=gmail&logoColor=black"/></a>
